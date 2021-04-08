@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sai-vishnu.tk
+Token: 3fed822a666f28a4be00999876dd04ed32943f0f9318f372f54b5f8edc09a82d
