@@ -3,10 +3,17 @@
 This is the code of the website which is going to be my portfolio.
 
 ## Link
+
 ### [sai-vishnu.tk](sai-vishnu.tk)
 
+## Update
+
+Please check this [update ](https://sai-vishnu.tk/INFO.html)
+
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
