@@ -4,11 +4,7 @@ This is the code of the website which is going to be my portfolio.
 
 ## Link
 
-### [sai-vishnu.tk](sai-vishnu.tk)
-
-## Update
-
-Please check this [update ](https://sai-vishnu.tk/INFO.html)
+[sai-vishnu.tk](sai-vishnu.tk)
 
 ## Contributing
 
@@ -16,4 +12,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU General Public License v2.0](https://choosealicense.com/licenses/gpl-2.0/).
